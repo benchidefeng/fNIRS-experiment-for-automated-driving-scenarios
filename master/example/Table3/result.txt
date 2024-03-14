@@ -1,0 +1,37 @@
+The result of AdaBoostalgorithmfor the EmergentAEB:
+ Training_Accuracy is:1.0
+ Testing_Accuracy is:0.9053521126760563
+ The result of VotingClassifieralgorithmfor the EmergentAEB:
+ Training_Accuracy is:0.9678828003944218
+ Testing_Accuracy is:0.7650704225352113
+ The result of RandomForestalgorithmfor the EmergentAEB:
+ Training_Accuracy is:1.0
+ Testing_Accuracy is:0.8732394366197183
+ The result of AdaBoostalgorithmfor the left_cut_in:
+ Training_Accuracy is:1.0
+ Testing_Accuracy is:0.8734593262119967
+ The result of VotingClassifieralgorithmfor the left_cut_in:
+ Training_Accuracy is:0.9389767824121635
+ Testing_Accuracy is:0.695152013147083
+ The result of RandomForestalgorithmfor the left_cut_in:
+ Training_Accuracy is:1.0
+ Testing_Accuracy is:0.8348397699260477
+ The result of AdaBoostalgorithmfor the right_cut_in:
+ Training_Accuracy is:1.0
+ Testing_Accuracy is:0.8554006968641115
+ The result of VotingClassifieralgorithmfor the right_cut_in:
+ Training_Accuracy is:0.9365736704446382
+ Testing_Accuracy is:0.695993031358885
+ The result of RandomForestalgorithmfor the right_cut_in:
+ Training_Accuracy is:1.0
+ Testing_Accuracy is:0.8127177700348432
+ The result of AdaBoostalgorithmfor the pedestrian_right:
+ Training_Accuracy is:1.0
+ Testing_Accuracy is:0.693089430894309
+ The result of VotingClassifieralgorithmfor the pedestrian_right:
+ Training_Accuracy is:0.9704684317718941
+ Testing_Accuracy is:0.6605691056910569
+ The result of RandomForestalgorithmfor the pedestrian_right:
+ Training_Accuracy is:1.0
+ Testing_Accuracy is:0.7621951219512195
+ 
